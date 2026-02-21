@@ -25,6 +25,16 @@ export OSOPENUPRN_DB="/path/to/OSOpenUPRN.db"
 ## Installation
 
 ```bash
+git clone git@github.com:Hamza-Xoho/ukgeolocate.git
+cd ukgeolocate
+pip install -e .
+```
+
+Or if you prefer HTTPS:
+
+```bash
+git clone https://github.com/Hamza-Xoho/ukgeolocate.git
+cd ukgeolocate
 pip install -e .
 ```
 
